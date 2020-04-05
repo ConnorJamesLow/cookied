@@ -1,0 +1,21 @@
+{
+  "name": "cookied",
+  "version": "1.0.0-0",
+  "description": "A pair of stupid simple functions for creating and retrieving cookies, based on W3Schools JavaScript cookie tutorial.",
+  "main": "dist/index.js",
+  "typings": "dist/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run dev",
+    "dev": "npx tsc --watch",
+    "build": "npx tsc",
+    "prepare": "npx tsc",
+    "release": "npm publish --access public"
+  },
+  "keywords": [],
+  "author": "Connor Low",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
