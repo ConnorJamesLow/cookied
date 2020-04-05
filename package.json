@@ -12,7 +12,10 @@
     "prepare": "npx tsc",
     "release": "npm publish --access public"
   },
-  "keywords": [],
+  "keywords": [
+    "cookie",
+    "JavaScript"
+  ],
   "author": "Connor Low",
   "license": "MIT",
   "devDependencies": {
