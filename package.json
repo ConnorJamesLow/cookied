@@ -1,6 +1,6 @@
 {
   "name": "cookied",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "A pair of stupid simple functions for creating and retrieving cookies, based on W3Schools JavaScript cookie tutorial.",
   "main": "dist/index.js",
   "typings": "dist/index",
